@@ -1,0 +1,15 @@
+{
+  "name": "conexao-tqi",
+  "version": "1.0.0",
+  "description": "testando javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dudu e Maiky - TQI",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.7",
+    "jest": "^26.1.0"
+  }
+}
